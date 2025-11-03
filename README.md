@@ -56,5 +56,5 @@ The output **exactly matches** the provided reference plots using `plot()` and `
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/matlab-signal-operations.git
-   cd matlab-signal-operations
+   git clone https://github.com/HammadKhalid75/Operations-on-Signals-and-Sequences.git
+   cd Operations-on-Signals-and-Sequences
